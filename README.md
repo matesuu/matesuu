@@ -5,7 +5,7 @@
 <p align="center"><strong>matesuu (mateo)</strong></p>
 
 <p align="center">
-  "work hard, be nice"
+  "out solo leveling..."
 </p>
 
 <p align="center">
