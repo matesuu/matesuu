@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:aladomateo@gmail.com">Email</a> —
-  <a href="https://linkedin.com/in/mateoalado">LinkedIn</a> - 
+  <a href="mailto:aladomateo@gmail.com">Email</a> -
+  <a href="https://linkedin.com/in/mateoalado">LinkedIn</a> -
   <a href = "https://matesuu.github.io/">Website</a>
 </p>
