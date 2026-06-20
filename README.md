@@ -11,5 +11,5 @@
 <p align="center">
   <a href="mailto:aladomateo@gmail.com">Email</a> -
   <a href="https://linkedin.com/in/mateoalado">LinkedIn</a> -
-  <a href = "website-mateo.vercel.app">Website</a>
+  <a href = "[website-mateo.vercel.app](https://website-mateo.vercel.app/)">Website</a>
 </p>
