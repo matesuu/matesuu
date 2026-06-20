@@ -5,7 +5,7 @@
 <p align="center"><strong>matesuu (mateo)</strong></p>
 
 <p align="center">
-  "out solo leveling..."
+  hi, i'm mateo. i build things.
 </p>
 
 <p align="center">
