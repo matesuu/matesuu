@@ -9,12 +9,6 @@
 </p>
 
 
-
-
-
-# <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a> About Me:
-# Hi, I'm Mateo <br><br>I'm a former SWE at both Berkeley Lab and California State University East Bay passionate about agentic systems, backend service engineering, and cloud computing.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoalado) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aladomateo@gmail.com) 
 
