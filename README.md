@@ -11,7 +11,6 @@
 	 <b>hi, i'm mateo. i build things</b>
 </p>
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoalado)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aladomateo@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?logo=googlechrome&logoColor=white)](https://website-mateo.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-4285F4?logo=googleearth&logoColor=white)]([YOUR_WEBSITE_URL](https://website-mateo.vercel.app/))
