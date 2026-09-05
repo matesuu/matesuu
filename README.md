@@ -2,7 +2,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=matesuu&hide=html,ruby,roff&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="220px" align="right" alt="Most used languages">
 </a>
 
-<p align="center"><strong>matesuu (mateo)</strong></p>
+<p align="center"><strong>Mateo Alado (matesuu)</strong></p>
 
 <p align="center">
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
