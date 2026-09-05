@@ -7,9 +7,9 @@
 <p align="center">
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
 </p>
-<p align="center">
-  hi, i'm mateo. i build things.
-</p>
+
+#  <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a> About Me:
+## Hi, I'm Georgios 👋<br><br>I'm an undergraduate MEng student in Information and Communication Systems Engineering at the University of the Aegean, with a strong interest in cybersecurity, embedded systems, and full-stack software development.<br><br>I enjoy building practical projects that combine clean engineering with real-world use cases, from Laravel and Next.js web applications to parsers, automation tools, and Arduino-based systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoalado) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aladomateo@gmail.com) 
