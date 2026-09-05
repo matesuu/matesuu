@@ -7,6 +7,9 @@
 <p align="center">
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
 </p>
+<p align="center">
+	 <b>hi, i'm mateo. i build things</b>
+</p>
 
 ##
 ##
