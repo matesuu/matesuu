@@ -10,7 +10,16 @@
 <p align="center">
 	 <b>hi, i'm mateo. i build things</b>
 </p>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoalado)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aladomateo@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?logo=googleearth&logoColor=white)]([YOUR_WEBSITE_URL](https://website-mateo.vercel.app/))
+  <a href="https://linkedin.com/in/mateoalado">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:aladomateo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://website-mateo.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-4285F4?logo=googleearth&logoColor=white">
+  </a>
+
+</div>
