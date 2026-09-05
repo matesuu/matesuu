@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:aladomateo@gmail.com">Email</a> -
+  <a href="mailto:aladomateo@gmail.com">aladomateo@gmail.com</a> -
   <a href="https://linkedin.com/in/mateoalado">LinkedIn</a> -
   <a href = "https://website-mateo.vercel.app/">Website</a>
 </p>
