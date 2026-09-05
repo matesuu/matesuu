@@ -8,7 +8,7 @@
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
 </p>
 <p align="center">
-	 <b>Hi, I'm Mateo. I'm currently building things related to AI agents, backend microservices, and cloud computing. Check out my other pagess below:</b>
+	 <b>Hi, I'm Mateo. I'm currently building things related to AI agents, backend microservices, and cloud computing. Check out my other pages below:</b>
 </p>
 <div align="center">
 
