@@ -12,4 +12,6 @@
 </p>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoalado) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aladomateo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoalado)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aladomateo@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?logo=googlechrome&logoColor=white)](https://website-mateo.vercel.app/)
